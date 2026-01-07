@@ -6,7 +6,7 @@ Future Interns
 
 ---
 
-## 🎯 Task Objective
+## 🎯 Task Objective  
 The objective of this task is to analyze business sales data to uncover:
 - Revenue trends over time  
 - Top-performing products  
