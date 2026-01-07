@@ -66,7 +66,9 @@ A dashboard screenshot is included for quick preview.
 
 ## 👤 Intern Details
 **Name:** Ethalapaka Sravan Raj
+
 **Role:** Data Science & Analytics Intern  
+
 **Organization:** Future Interns  
 
 ---
